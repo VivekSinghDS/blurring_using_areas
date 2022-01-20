@@ -7,8 +7,12 @@ Steps for installation :
 <li>pip install face_recognition fastapi uvicorn opencv-python 
 <li>Run the api_file_blurring.py file to see the results
 
-<h3> Some examples 
-  Test Image
-  ![test1](https://user-images.githubusercontent.com/92970332/150360557-051cb87a-c665-4abb-a5cb-88258926e988.jpeg)
-  Blurred Image
-  ![blurred_test1](https://user-images.githubusercontent.com/92970332/150360549-0fe8d138-8e40-411f-9c84-4143a66011e3.jpeg)
+  <h3> Some examples </h3>
+  <p> Test Image</p>
+  
+  
+![test1](https://user-images.githubusercontent.com/92970332/150360977-8fdfa322-d6a8-496b-8ada-aeb95fb523e7.jpeg)
+  
+  <p>Blurred Image</p>
+  
+![blurred_test1](https://user-images.githubusercontent.com/92970332/150361075-f50e274f-947f-41b4-962c-3762501189ec.jpeg)
